@@ -1,0 +1,9 @@
+{
+  "name": "wp-pt/import-external-images",
+  "type": "wp-pt",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.x.x"
+    }
+  }
+}
